@@ -51,6 +51,9 @@ Binaries/Win64/*.exe
 Binaries/Win64/*.exp
 Binaries/Win64/*.lib
 Binaries/Win64/*.pdb
+Binaries/Win64/OpenImageDenoise.dll
+Binaries/Win64/tbb12.dll
+
 Plugins/*/Binaries/*
 
 # Builds
